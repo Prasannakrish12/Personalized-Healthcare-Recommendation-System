@@ -17,7 +17,7 @@ This is a Machine Learning-powered system designed to recommend medicines and tr
 
 ## 📂 Project Structure
 <details>
-<summary>📁 Click to view folder structure</summary>
+<summary>'''📁 Click to view folder structure</summary>
 
 📁 Personalized-Healthcare-RS/
 ├── 📁 data/                      # All datasets go here (CSV, JSON, etc.)
@@ -45,7 +45,7 @@ This is a Machine Learning-powered system designed to recommend medicines and tr
 ├── .gitignore                   # Files/folders Git should ignore
 └── LICENSE                      # License file (e.g., MIT)
 
-</details>
+'''</details>
 ## 🔍 How to Run
 
 1. Clone the repo:

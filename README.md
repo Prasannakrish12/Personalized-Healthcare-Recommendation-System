@@ -17,11 +17,30 @@ This is a Machine Learning-powered system designed to recommend medicines and tr
 
 ## 📂 Project Structure
 📁 Personalized-Healthcare-RS/
-├── data/
-├── models/
-├── app.py
-├── requirements.txt
-└── README.md
+├── 📁 data/                      # All datasets go here (CSV, JSON, etc.)
+│   └── symptoms_disease.csv
+│
+├── 📁 models/                    # Trained models or model-saving code
+│   ├── decision_tree.pkl
+│   └── model_trainer.py         # Script to train & save models
+│
+├── 📁 utils/                     # Helper functions (e.g., preprocessing, utils)
+│   └── preprocessing.py
+│
+├── 📁 notebooks/                # Jupyter notebooks for exploration or prototyping
+│   └── EDA.ipynb
+│
+├── 📁 app/                      # Streamlit or Flask app
+│   ├── app.py                   # Main app file
+│   └── layout.py                # (Optional) for UI layout separately
+│
+├── 📁 tests/                    # Test scripts (unit tests, integration tests)
+│   └── test_prediction.py
+│
+├── requirements.txt             # Python dependencies
+├── README.md                    # Project documentation
+├── .gitignore                   # Files/folders Git should ignore
+└── LICENSE                      # License file (e.g., MIT)
 ## 🔍 How to Run
 
 1. Clone the repo:

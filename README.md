@@ -17,8 +17,8 @@ This is a Machine Learning-powered system designed to recommend medicines and tr
 
 ## 📂 Project Structure
 <details>
-<summary>'''📁 Click to view folder structure</summary>
-
+<summary>📁 Click to view folder structure</summary>
+```text
 📁 Personalized-Healthcare-RS/
 ├── 📁 data/                      # All datasets go here (CSV, JSON, etc.)
 │   └── symptoms_disease.csv
@@ -45,13 +45,16 @@ This is a Machine Learning-powered system designed to recommend medicines and tr
 ├── .gitignore                   # Files/folders Git should ignore
 └── LICENSE                      # License file (e.g., MIT)
 
-'''</details>
+</details>
+```
 ## 🔍 How to Run
 
 1. Clone the repo:
    ```bash
    git clone https://github.com/Prasannakrish12/Personalized-Healthcare-Recommendation-System.git
+
 2.	Install dependencies:
+
    pip install -r requirements.txt
 3.	Run the app:
    python app.py

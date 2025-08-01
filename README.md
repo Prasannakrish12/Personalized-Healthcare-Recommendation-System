@@ -71,7 +71,7 @@ This is a Machine Learning-powered system designed to recommend medicines and tr
 
 📬 Contact
 
-Made with ❤️ by Prasanna Krish
+Made with ❤️ by [Prasanna Krish](https://github.com/Prasannakrish12)
 
 Feel free to fork, improve, or suggest features!
 

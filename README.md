@@ -18,7 +18,7 @@ This is a Machine Learning-powered system designed to recommend medicines and tr
 ## 📂 Project Structure
 <details>
 <summary>📁 Click to view folder structure</summary>
-```text
+<pre lang="markdown">
 📁 Personalized-Healthcare-RS/
 ├── 📁 data/                      # All datasets go here (CSV, JSON, etc.)
 │   └── symptoms_disease.csv
@@ -46,7 +46,7 @@ This is a Machine Learning-powered system designed to recommend medicines and tr
 └── LICENSE                      # License file (e.g., MIT)
 
 </details>
-```
+</pre>
 ## 🔍 How to Run
 
 1. Clone the repo:

@@ -70,8 +70,21 @@ This is a Machine Learning-powered system designed to recommend medicines and tr
 	•	Integrate user feedback loop
 
 📬 Contact
+For queries or contributions:
 
-Made with ❤️ by [Prasanna Krish](https://github.com/Prasannakrish12)
+Prasanna S
+📧 Email: [prasannas4463@gmail.com](mailto:prasannas4463@gmail.com)  
+🐙 GitHub: [Prasannakrish12](https://github.com/Prasannakrish12)
 
 Feel free to fork, improve, or suggest features!
+
+## 📄 License
+
+This project is licensed under the [Creative Commons BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+🚫 No commercial use  
+🚫 No modifications  
+✅ Free to share with credit
+
+Copyright © 2025 Prasanna S. All rights reserved.
 
